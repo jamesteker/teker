@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 
 namespace Smart_Care
 {
-    /// <summary>
+    /// <summary> uwu
     /// Interaction logic for RegisterDevice.xaml
     /// </summary>
     public partial class RegisterDevice : Window

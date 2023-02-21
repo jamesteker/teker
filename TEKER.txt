@@ -3,3 +3,4 @@ ojt
 add report bago new
 harvey
 john
+demingoy
